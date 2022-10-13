@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Thorben Frey.
+- 👀 I’m mostly interested in exoplanets, atmospheres and habitability.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 thorben.frey@web.de
+
